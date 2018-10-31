@@ -1,13 +1,13 @@
 {
-  "name": "tdrcavallini/laravel-easymutators",
+  "name": "tcavallini/laravel-easymutators",
   "description": "Value object mutation solution for Laravel 5.",
   "keywords": ["photo", "image", "upload", "laravel", "eloquent", "value object", "mutators"],
-  "homepage": "https://github.com/tdrcavallini/laravel-easymutators",
+  "homepage": "https://github.com/tcavallini/laravel-easymutators",
   "require": {
     "php": ">=5.4.0",
     "laravel/framework": "^5.1",
     "intervention/image": "^2.3",
-    "tdrcavallini/eloquent-value-object": "^1.1"
+    "tcavallini/eloquent-value-object": "^1.1"
   },
   "require-dev": {
     "phpunit/phpunit" : "^5.7.0"

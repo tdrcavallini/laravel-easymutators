@@ -1,6 +1,6 @@
 # The MIT License (MIT)
 
-Copyright (c) Request <tdrcavallini@Request.com.br>
+Copyright (c) Request <tcavallini@Request.com.br>
 
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal

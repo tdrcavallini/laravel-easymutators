@@ -36,7 +36,7 @@ To create derived images [GD](http://php.net/manual/en/book.image.php) should be
 You can install this package via composer using this command:
 
 ```bash
-composer require tdrcavallini/laravel-easymutators
+composer require tcavallini/laravel-easymutators
 ```
 
 Next, you must install the service provider:
