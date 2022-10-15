@@ -5,7 +5,6 @@
   "homepage": "https://github.com/tdrcavallini/laravel-easymutators",
   "require": {
     "php": ">=7.0",
-    "laravel/framework": "^8.12",
     "intervention/image": "^2.3",
     "tdrcavallini/eloquent-value-object": "1.3"
   },
